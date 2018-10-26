@@ -3,3 +3,15 @@
 #themecolors a {
     cursor: pointer;
 }
+
+.logo-dashboard {
+    height: 30px;
+}
+
+.logo-login {
+    width: 110px;
+}
+
+.logo-register {
+    width: 90px;
+}
